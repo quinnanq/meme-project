@@ -7,6 +7,10 @@ body {
     font-size: 3rem;
   }
 
+  a {
+    color: white;
+  }
+
   .poster {
     width: 50%;
     margin-left: 25%;
